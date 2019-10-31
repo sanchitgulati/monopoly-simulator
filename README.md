@@ -40,6 +40,9 @@ PyGame CMD Line version
 python3 GameCode.py
 ```
 
+## Screenshot
+![alt text](https://bitbucket.org/sanchitgulati/monopoly-simulator/raw/370d2248130998cead41614062efc8470732cf7d/Screenshot.png)
+
 ## Built With
 
 * [Python](https://www.python.org/)
