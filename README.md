@@ -1,6 +1,6 @@
 # Monopoly Simulator 
 
-Probablity on a player landing on a property while playing Monopoly
+To figure out the probability of a player landing on a specific property while playing Monopoly
 
 ## Getting Started
 
