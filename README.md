@@ -6,10 +6,15 @@ Probablity on a player landing on a property while playing Monopoly
 
 ### Prerequisites
 
+I used homebrew to install python3 on my OSX.
+You can install it anyway you feel like.
 ```
 brew install python3
+```
+
+Using pip to install other prerequisites
+```
 python3 -m pip install psd-tools numpy scipy pygame==2.0.0.dev6
-python3 Monopoly.py
 ```
 
 ### Installing
