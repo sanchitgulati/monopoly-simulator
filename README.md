@@ -18,8 +18,14 @@ PyGame UI version
 ```
 python3 Monopoly.py <turns_per_game>
 ```
-Keep UI.psd next to the py script
-Layer named ScreenSize is required, PyGame uses this for Window initiation.
+For UI generation, tool parses through .psd file and generate Game UI directly. 
+Read PSDReader.py for more info.
+
+
+Keep UI.psd next to the py script. 
+
+Layer named ScreenSize is required, PyGame uses this for Window initiation. 
+
 Text elements are taken by name from PSD.
 
 
